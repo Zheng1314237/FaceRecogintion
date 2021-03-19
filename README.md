@@ -1,2 +1,0 @@
-# FaceRecogintion
-采用opencv的人脸模板识别人脸，然后采集数据训练自己的数据
